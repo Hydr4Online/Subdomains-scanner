@@ -15,4 +15,5 @@ los subdominios
 ejemplo:
 
 python3 Sdomains.py -t google.com
+<br>
 python3 Somains.py --target facebook.com
